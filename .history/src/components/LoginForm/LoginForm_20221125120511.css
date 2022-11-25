@@ -1,0 +1,14 @@
+.email {
+  margin: 1em 0em 1em 0em;
+}
+
+.password {
+  margin-bottom: 1em;
+}
+
+input {
+  border: solid red 0.1em;
+  border-radius: 2em;
+  height: 1em;
+  width: 11em;
+}
